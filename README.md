@@ -27,6 +27,6 @@
 * Glide
 * Motion Layout
 * Testing
- * Robolectric
- * Kaspresso
- * MockWebServer
+  * Robolectric
+  * Kaspresso
+  * MockWebServer
