@@ -26,3 +26,7 @@
 * Dagger2
 * Glide
 * Motion Layout
+* Testing
+ * Robolectric
+ * Kaspresso
+ * MockWebServer
